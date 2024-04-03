@@ -1,0 +1,24 @@
+{
+  "name": "xrpacc",
+  "version": "1.0.0",
+  "description": "process xrpl account info",
+  "main": "getActiveAddresses.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coovxrp/xrpacc.git"
+  },
+  "author": "coov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coovxrp/xrpacc/issues"
+  },
+  "homepage": "https://github.com/coovxrp/xrpacc#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ws": "^8.16.0",
+    "xrpl": "^3.0.0"
+  }
+}
