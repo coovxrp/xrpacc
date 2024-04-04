@@ -165,9 +165,9 @@ async function processAccounts(
 
 ws.on('open', async () => {
   console.log('Connected to XRPL WebSocket server');
-  const accountsFilePath = './4_1_24_Active_XRPL_Addresses.csv';
-  const output300MoreFilePath = './4_1_24_Accounts300More.csv';
-  const output300LessFilePath = './4_1_24_Accounts300Less.csv';
+  const accountsFilePath = './4_3_24_Active_XRPL_Addresses.csv';
+  const output300MoreFilePath = './4_3_24_Accounts300More.csv';
+  const output300LessFilePath = './4_3_24_Accounts300Less.csv';
   const accounts = await getAccountsFromFile(accountsFilePath);
   // console.log(accounts);
   await processAccounts(
