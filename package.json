@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "process xrpl account info",
   "main": "getActiveAddresses.js",
+  "module": "true",
   "scripts": {
     "test": "none"
   },
