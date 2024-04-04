@@ -2,7 +2,7 @@ import WebSocket from 'ws';
 import { readFile, writeFile, appendFile } from 'fs/promises';
 import { join } from 'path';
 
-const ws = new WebSocket('wss://s1.ripple.com'); // Adjust the WebSocket server URL as needed
+const ws = new WebSocket('ws://127.0.0.1:6006'); // Adjust the WebSocket server URL as needed
 
 async function getAccountsFromFile(filePath) {
   const data = await readFile(filePath, { encoding: 'utf8' });
