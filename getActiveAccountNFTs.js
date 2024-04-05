@@ -105,8 +105,8 @@ async function processAccounts(
       console.log(`Processing account: ${account}, NFT count: ${nfts.length}`);
       if (nfts.length >= 300) {
         await appendAccountToCSV(account, output300MoreFilePath);
-      } else if (nfts.length > 0) {
-        await appendAccountToCSV(account, output300LessFilePath);
+      // } else if (nfts.length > 0) {
+      //   await appendAccountToCSV(account, output300LessFilePath);
       }
       // Mark account as processed
       const index = accounts.findIndex((a) => a.account === account);
