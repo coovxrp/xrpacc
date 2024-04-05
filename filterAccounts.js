@@ -2,7 +2,7 @@ import WebSocket from 'ws';
 import { readFile, writeFile, appendFile } from 'fs/promises';
 import { join } from 'path';
 
-const network = 'wss://s1.ripple.com'; // ws://127.0.0.1:6006
+const network = 'wss://s1.ripple.com'; // Adjust as needed
 const accountsFilePath = './4_3_24_Accounts300More.csv';
 const recipientsFilePath = './recipients.csv';
 
@@ -62,9 +62,7 @@ async function fetchAllNFTs(account) {
 }
 
 async function processAccounts() {
-  const accountsData = await fs.readFile(accountsFilePath, {
-    encoding: 'utf8',
-  });
+  const accountsData = await readFile(accountsFilePath, { encoding: 'utf8' });
   const accounts = accountsData.split('\n').filter((line) => line);
 
   for (const account of accounts) {
@@ -76,7 +74,7 @@ async function processAccounts() {
 }
 
 async function appendAccountToCSV(account, filePath) {
-  await fs.appendFile(filePath, `${account}\n`);
+  await appendFile(filePath, `${account}\n`);
   console.log(`Appended ${account} to ${filePath}`);
 }
 
