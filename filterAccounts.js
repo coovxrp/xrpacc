@@ -2,7 +2,7 @@ import WebSocket from 'ws';
 import { readFile, writeFile, appendFile } from 'fs/promises';
 import { join } from 'path';
 
-const network = 'wss://s1.ripple.com'; // Adjust as needed
+const network = 'ws://127.0.0.1:6006'; // Adjust as needed
 const accountsFilePath = './4_3_24_Accounts300More.csv';
 const recipientsFilePath = './recipients.csv';
 
@@ -60,16 +60,24 @@ async function fetchAllNFTs(account) {
     });
   });
 }
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 async function processAccounts() {
   const accountsData = await readFile(accountsFilePath, { encoding: 'utf8' });
   const accounts = accountsData.split('\n').filter((line) => line);
 
   for (const account of accounts) {
-    const nfts = await fetchAllNFTs(account);
-    if (nfts.length >= 300) {
-      await appendAccountToCSV(account, recipientsFilePath);
+    try {
+      const nfts = await fetchAllNFTs(account);
+      if (nfts.length >= 300) {
+        await appendAccountToCSV(account, recipientsFilePath);
+      }
+    } catch (err) {
+      console.error(`Error processing account ${account}:`, err);
     }
+    await sleep(5000);
   }
 }
 
