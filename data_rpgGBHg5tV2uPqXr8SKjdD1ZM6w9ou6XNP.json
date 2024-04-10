@@ -1,0 +1,2092 @@
+{
+  "issuer": "rpgGBHg5tV2uPqXr8SKjdD1ZM6w9ou6XNP",
+  "issuerDetails": {
+    "username": "xClown5k",
+    "service": "xClown"
+  },
+  "list": "owners",
+  "totalNfts": 5023,
+  "totalOwners": 260,
+  "owners": [
+    {
+      "owner": "rH3nmfMUEB3Y4c1fABCWGV9TH4qSFUjWJ8",
+      "ownerDetails": {
+        "username": "XCLOWN1",
+        "service": null
+      },
+      "count": 2422
+    },
+    {
+      "owner": "rHA1NskwuLuk11LGch8b1H3xecjceSpMGY",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 198
+    },
+    {
+      "owner": "rhx51cnHWd9oDo6cH1DTPLunFLfY5kvHuK",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 196
+    },
+    {
+      "owner": "rNrWKDDodYs4Z1vBLGiR9QFgnaNt8QFm5j",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 151
+    },
+    {
+      "owner": "rpxfYgtzVEtHdshXRkjiFaRM6mMyBsk2yi",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 88
+    },
+    {
+      "owner": "rBbYWFKd5inXKUZ86T1rFJzFatzbaPxc8g",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 67
+    },
+    {
+      "owner": "rGJAQ6QSkphTXTBB6rxQYrwvzrxV2dar1E",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 67
+    },
+    {
+      "owner": "rMZ1BxSfWHCxXmsZhAbxjzSW7WNw2vxdqb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 67
+    },
+    {
+      "owner": "r9n9XnKJ2eigDC3cJW249JhiA4VjxtCpXy",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 65
+    },
+    {
+      "owner": "rHhN8dm47GuPs3GyvMXwMpcsUTE8vSiVeb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 64
+    },
+    {
+      "owner": "r98yAs2tdB7eegUnhNjvXzHyXVComTzSay",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 58
+    },
+    {
+      "owner": "rE3iHuapqTi78pEdy9HNs2QXhcWaVesbRU",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 56
+    },
+    {
+      "owner": "rsuAuzcMNKuFyB5pN6yP61wjhUmnqFL8Av",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 51
+    },
+    {
+      "owner": "rDxrJmAStgQhMxEfRi9Gs5tuxfeHW93iWg",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 43
+    },
+    {
+      "owner": "rDH2iYbvvMDgQjJQDg1roZo61SSKwNfyQH",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 42
+    },
+    {
+      "owner": "rKo46z3Re1Tuw1rHF1vtDTuPNkhBcep97P",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 40
+    },
+    {
+      "owner": "rDN7zLUzqfjRY6gQMFAiH4CLAe8iJMJ8U6",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 38
+    },
+    {
+      "owner": "rftDKRXnNdN8CMaBRjDDsD2qaeiq2bq7w7",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 34
+    },
+    {
+      "owner": "rJLugJj4TV5RqdG41m5M9jbjxMPuewLBjK",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 34
+    },
+    {
+      "owner": "rfE6Wxrt8o3tEnfCnBENDzqSnfnSDmZ6wu",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 34
+    },
+    {
+      "owner": "ra3NmPhqHNBZYpCfD25YArvsabesd3wzqJ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 33
+    },
+    {
+      "owner": "rUuzEoMgrzbzA5ng8v9LevHd63psKNmb85",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 31
+    },
+    {
+      "owner": "rMD1Z5fV5NCYBSRuRFmeLmxm9Cbb4C6A9A",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 31
+    },
+    {
+      "owner": "raNTtNn94r8oSPvpaBCBs5NJsuBKgDawsW",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 30
+    },
+    {
+      "owner": "rhNwckiB1xbmxJNkzXmwpwS4y1iTDe8mJy",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 30
+    },
+    {
+      "owner": "rPujUW7FQmQpFs71kJueHjTr5CXnvYkCYb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 28
+    },
+    {
+      "owner": "rHwCoBDJf8x3wgBqbZFwz7EPZxYP2Ny3Tz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 27
+    },
+    {
+      "owner": "rndPa5KdePbPAEmAKfD9xEWVyTU7fci9oe",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 26
+    },
+    {
+      "owner": "r3m9QbeVhvh6h5BEMW4nvRAE1CNAoQRp5L",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 22
+    },
+    {
+      "owner": "r9MJJMvgwMds6VRTNzL24fpWoKGvqKg4eP",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 20
+    },
+    {
+      "owner": "rsAKWGMr8FFbwgVD4vq4kpKi2EErSUV7pd",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 20
+    },
+    {
+      "owner": "rw2GLHduCC9dLd49YRnuovkyttLdMDcoQ4",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 20
+    },
+    {
+      "owner": "rECqMQbNV43CiYKTpcszBoFkTF6AftZHNx",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 19
+    },
+    {
+      "owner": "rafFoBZ97iJpT9khpYL2PY8JqiyuskUJMp",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 19
+    },
+    {
+      "owner": "rKnNqBM7v14Bo9rgd1YsqU9iu9a7Evfnbv",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 19
+    },
+    {
+      "owner": "r4Bk8NqCxd5VgmNqktDMJ1aNgJSxS46SJD",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 19
+    },
+    {
+      "owner": "rUaTjFKF4fJXjo95oWYXVeb9p8QL1J7hTR",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 18
+    },
+    {
+      "owner": "raWYT6DD2XFAvjCqRPsCCzr1CMBzJydf9E",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 16
+    },
+    {
+      "owner": "r4NHwPRiihdBemh4iyW4yS43ck9oEDFGgY",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 16
+    },
+    {
+      "owner": "r3yPni6KRZxbfu4mTyTvkdJsQLj4CvDzdr",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 16
+    },
+    {
+      "owner": "rNBrxQwjiPbKEV2WhBEpGSMySCZMGhewFx",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 16
+    },
+    {
+      "owner": "rspPJpMz1aEBBsyE3KPFB5FpMV3wGUs2SF",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 15
+    },
+    {
+      "owner": "rPxAm9iSRjMfsyDc4L5cmbfyqHD3gkqTz4",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 15
+    },
+    {
+      "owner": "rwXp2yDkaQsJuMeGGZ64N2zbRfb7NJyLUZ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 14
+    },
+    {
+      "owner": "rE9CheBPH5odxWK5KpqHMpgfULEp7cBoTb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 14
+    },
+    {
+      "owner": "rHJsCkRxgQba9NyUSBLonDrdXaAHRgK6ME",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 14
+    },
+    {
+      "owner": "rKMAneqgsqe6iVBoVFch7tmR1Sg3fvi38W",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 13
+    },
+    {
+      "owner": "r9ecvZiwQGoP6rxYV1cjy6v2iEquZadwxP",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 12
+    },
+    {
+      "owner": "rKBHrS5fCa7TX6ZYTz6EMhZtPWSL6YFKon",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 11
+    },
+    {
+      "owner": "r4dm5ZoQSxaNi5h3v6y1wjd7iq5cmSDGz5",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 11
+    },
+    {
+      "owner": "rHXV6Yj25n5T1z74pJyQAq5wUhHeAr1TME",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 10
+    },
+    {
+      "owner": "rKwpC5pGgnzR1SMpKcvx1Cfyt3XGRyEmMU",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 10
+    },
+    {
+      "owner": "rEWBPNjuugWWkNSKax1N3C64fHcNP8BH55",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 10
+    },
+    {
+      "owner": "rGRBUgdPU1QbvWk8BHofLCd3TSNeRSsBUE",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 10
+    },
+    {
+      "owner": "r4uupycYpHX5AsSpP3o7BL9EJXZYdJVKNA",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 9
+    },
+    {
+      "owner": "rLnr2fCGW5GoALVrofZnmGqcUa9YHGNXMh",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 9
+    },
+    {
+      "owner": "rhM4nPatWwsNdndAdzLMmEjVjy31Qjwozc",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 9
+    },
+    {
+      "owner": "ravzhrSPn4QRgafr3oqCXSBodFSqd3RKeR",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 9
+    },
+    {
+      "owner": "raY2vCNbVUCiiEpQCU4VW7DS6p9easgFep",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 9
+    },
+    {
+      "owner": "r3Boc2abdnz9LiYoq9HGUuLL4ciWRMEgpD",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "rpJatVHaKDUmZ6LaVUYiDAC8kjaijw8sTq",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "rJ35Ji9uHs96N95jQhhwFqyGdz8pSnfTSq",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "rhfT7f9Mr3YXt8EhfRvfMo2uF7B33PQHcZ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "rsiJmkMimkdb5kZDtjtKPFiR8NYE7mbsVD",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "rwGi4ByckE8evNyUV9uBGGc9bHRTewo9Py",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "r9CbVvum73WgiGiQdft2pvtXqkX4yK9KAw",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 8
+    },
+    {
+      "owner": "r3XqdHELPEZen3ijViPrxv9WCLx9Nq1ngk",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 7
+    },
+    {
+      "owner": "rBDftxyVQY4NNwBArByzcsmW8ziAD9Ubf8",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 7
+    },
+    {
+      "owner": "rEm17A6urKJTzSPwMTfCzvcLXUFATSaJtm",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 7
+    },
+    {
+      "owner": "rXMART8usFd5kABXCayoP6ZfB35b4v43t",
+      "ownerDetails": {
+        "username": null,
+        "service": "xMart"
+      },
+      "count": 7
+    },
+    {
+      "owner": "rHaJMUgTiJDryny9zQkT2ZMt4GehxMfAaR",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 7
+    },
+    {
+      "owner": "rLUyQK2rnFYGCVHSVKZWFp3hGw7276TcMB",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 7
+    },
+    {
+      "owner": "ra18YPmTBB2mrEHokBzVLZ6e6gmUAhFpyk",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 7
+    },
+    {
+      "owner": "rMr9UQTxF3PBYNg7KrA7usUPdpMiCWZ3Bc",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "rEGYHBkPKJHmYu985rtkxZonoxNav29EFQ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "rnmWH1mPW1FHvtDKDM22V7Fk7Cq27q83uQ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "r3C6YTVGfKZf44jBxsmadgZC8Tmeiydmpk",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "rfco5YeETYU5RXjywty6HSdvxBX5UDJBaK",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "rK9U1xUAWeDSiPPDXNKjw7zEkTZJAEufQD",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "rwbG8H3cseHPzjuf4FCyJvdfburfzjxfR9",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 6
+    },
+    {
+      "owner": "rUhY1expKp7hQVJCD2cCoe6FxLxboaQZGm",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rB9GDg9kemj9KGCv9aCY5SP8ZE3VX7DwxV",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rPQdhwxykFL21mA5KNF2iJiawbWkZEBvwc",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rKqLxi5JcnSH5o1PwgqxdaUC4bHC9YfG9n",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rTWTWQMo7k4MumPHupG957yxBb9KxCFjv",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "r4M9QuK1zECeit9DmXbKA7JRUvccdEtZ1Z",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rHnHhECUTRR1ePgwmPUXaGH8dyiBM6dZmz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rUJXS1SokKLfz3hDWRai1hekQw3DKb7X9p",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rKhqN4egQZe8TiiSF5TNgNUpvsAV5K2x7u",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rP5iJTpyvjdTdisDfVUmZuTACWwSzEpfB6",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rGVrwH7KmgGqDVRBpsmSVFQ6fwR3s43oGK",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rfQmCM4kdhZSpDpWMLrF923F7HWYmmnVqp",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rBKXj4zvwAvAUVsXywzGXF79B3yFipmoDd",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "r9dnJdty5z6M1sxCowRRfBFy2KoxaiyX7k",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rw9RTmJLDWwpFM7UfoGFayLMNStwvWs847",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "rPPkSGdKrJqL8LWRzCdnqMCy8ym6KRNJiJ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 5
+    },
+    {
+      "owner": "r97aYVUKETLAp3zB1z6GXLboE4nAq3SKFW",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rpgGBHg5tV2uPqXr8SKjdD1ZM6w9ou6XNP",
+      "ownerDetails": {
+        "username": "xClown5k",
+        "service": "xClown"
+      },
+      "count": 4
+    },
+    {
+      "owner": "rfHuwE2ZteMqo5g4hXc66enZTb6RoJn1RS",
+      "ownerDetails": {
+        "username": "G00",
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rJMFzLYY7PRZCdATEcCkBBbLnNpUU1LUqH",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rKkow9ARevjFSTciVKeKcGnJC15Csnyw8P",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rD9a7oTEBFGexAhCcHSvfsiVo8v5beXgXn",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rjg8fhYdL7ey9jpjXq5LkfAT1wdF1cShs",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rwWuXv79eu1XF5Jetj5Pqywe1MVYUfqeBv",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rwTRvmxLuiKBC9Xw5E1m6ownTTocRNNkRw",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rwbF2KCQ8Fnuw4nwWpyZXv1vYtbtcTcGDB",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rNa3tP7W16au26bSneuPrr3b3LddtXEWnb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rJjFToTsWWUkehzsTVx5AMHiyxwBiMrXXb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rBX8wmrXgyaLXZnHzhuo5tXnqTCzSMSpzA",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rszrqosxKU7WcekF4tAfSHySBhgCsSjbkr",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rndcVQmSfuwDDD8dUMPyxxF6nhEqCDwkHa",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rstB4hFn4ExWh7aMQ8Cua6shHJz4vnSv51",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rLUHZDHsdxixwguXSGAceaUUuo6gieHmeg",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rhzoWHDPTCK1HBUY3481kcR6ixKgqaEJ9C",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 4
+    },
+    {
+      "owner": "rUHvugWgwr81XRd3f6NzQ52K7NWP1tTXgm",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rGQ1uDr8vCWLZmCJoNAdyzDu1UAP6tN3Tz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rGoLdHQ7ujED1TMNPBJH9Ek6VJwU7Ns7kr",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rnhwpvPWE6GLMP43JTtq34JkvQ685pmicE",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rBs4fBwj8HWdwsRFZ52VJC9Xcv8mhxn2f8",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rMBasx9ijVCsJGsEncSGRYnwzdfAGcemUb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rU2wYg1UToKxVFqXTx6ap3EVgPig6j5wy5",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rsVbXiTqoVuSkzRQ4yy2n9FT1pGKDyaPhX",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "r3SvAe5197xnXvPHKnyptu3EjX5BG8f2mS",
+      "ownerDetails": {
+        "username": null,
+        "service": "Family NFTs"
+      },
+      "count": 3
+    },
+    {
+      "owner": "rEtN2RTXAYD8UgpGgoGkBow4ejwEbLxsXH",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "raj2VkCuH7FFVFk57vkk3s9knJTR8hZHQf",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rUMU65sai5cvPw2XimPoR8W7RSSXE3paBD",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rf8ZbrFWdtAY7VD7w7ybCEKcKFtGeZHn4e",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rnnsKfpkC4W2Q4EZ3m4vUs2MkwU4JcxfkU",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rpd3wVvXutgqLAmytSJS6B97y9KA23Whzz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rK6nEePaLbQaKXhjSc8SouopBxtLFYS8g7",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rEUBp8LU9wR1S3ibr7RNWpVttZqJcHKPTQ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rEiU9rc7rMSZYk9JXqvDmhfG2q2KAVPX9D",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "r4yTSh4kykCkV6z2QEhkD6XKr83fjNWg9v",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rbKoFeFtQr2cRMK2jRwhgTa1US9KU6v4L",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "ra8Xj6ufhK9Z7SnwJRoSaybYyCKLAgR3Up",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "rJA5p2Lu412vvUYeNNSJyF7eFqzrhHQa7L",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 3
+    },
+    {
+      "owner": "r41bidJCvkNhcaQhQsYHmaVrvYRf7Vwobw",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rfQ7KH4qadtGrkeRdfifJrGoUXeJMuHhsz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rMx11F3jQyGGGJW2eGiGEpbik2vW3f9PCU",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rXMARTZ9coJfTYRMBFZnVXj9bjPgAkd58",
+      "ownerDetails": {
+        "username": null,
+        "service": "xMart"
+      },
+      "count": 2
+    },
+    {
+      "owner": "rBHYxS3J6VfMeo2L9BTfEG6EuccP7WBPgf",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rG8fBoWQDyxMfi5uMotc3FMage5VH7mYyt",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rG2pkNPtMJr4fcB9fUns277qDhe3SdLGg3",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rMLmdSpkdmqnaExqM4SzotcXymqQ31J4gd",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rPP72cX9Kw84UzPWr4suLbYDdJTSoUWhUH",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rH9jpP7uNrEZQGgU4dqe35UtEp9b3Q76s4",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rNT1xbtT6F7qAy811HCxdknfmA9BgxcQqL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rEhQ61MaUWJgk1PSCuQUL9iLu1Z34NUFeR",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rHgGrpgS67wbkegPASXqtFnWrmb13wisFA",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rpNphpebjvCFaEgoPhJJR8eGNUBVy1CswJ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rM39kqtnqQ5RBKAhAV8kzsNuxyay6azV2d",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rHVqnGayufxQigCHZpGTUhYvS1qprzHQPj",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rfCHpFCwGtAa8zzUMDhD2YJvZCTxYEwBx1",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rPs4sTevJVt7i7XCS7je8TW8e7XgbvP9PZ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rJxPDy5zPLAzKFwaHFUGRVKUTVr3xBs6eq",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rP1U7br6xhNpPxV8onXhDfdg8F8BGP5iFH",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "r4nUd4E3WpuPMsPEKiJaj9S77jKG9YNNEg",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rLZCckfQGFHzdnJLsAK9UVMKQusG6h1opE",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rMMX1c8YGspGgwJ1UBDrnStthoYUk7Jz7R",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rDCT8ehC3mGCiwfgtRNLKYzvoJEPMMTDRP",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rap9dpK9v2ZmHZ1cMrvAfXojafAtM4QMWX",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rwVt8zH3x9SWwcAaGNfKjzHtmPUBt9u48s",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rJBGX99xtc5WwS85Z1YyJiqo5619Zk7Nzz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rB72Rf9pzCTBk3Ec8MDC2DBqJq4yCPMjqg",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rEs7XzaqPRU3smne4p1A9EWCGRHjbFDc4W",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rwuZoW2mVRmTHbrbFVGveHNrHDB8bxdi5h",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rKKrf5BP8GAzMKvaba4JGGttK6Fm4gBpmh",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rsHwRjEYzyZoetWuSfTDDaLgtprTZVbuZi",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rUydJSyuffFDp6FezrKb76e797ffoRhhaP",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rMfeFwAKoHGJ23P6eeVDHzm1we7X82ap24",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rByBai5cdUesB3SN6BvuC4h3WrBBi7HizG",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rPaKWNjTBWqo96ZvpeJPeK2XY3rdDh1y1m",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rproy3qGR6ULrc4Mr9fU5HDyL4vzpur6U4",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rfPYhqkoDLuHDiQ8jdexRTN8BFvDQriHaN",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rUZ1daGoQW2BJbB2jdtLjR6ePLgWgHWGZX",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 2
+    },
+    {
+      "owner": "rH4w1awZV6AcHdFx1qXc8wKmJfrWZ3aqYc",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rwe5WHFyMZdhyST4EKetBwj3C7LcmBE43L",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r3i3LfamdjGPzLoLY8LR6DjAWfyVVFNLmb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r98AFavzLpD37uR7LZ25xEyTcoovS11aik",
+      "ownerDetails": {
+        "username": "coov",
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rBcGzdMULkZNSYdnCsfwJLiEMcmU7P2NYx",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rK8jQXUV4aPeir53zcy2GZCdEJYXUq2UX8",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r9RAtamZnJaYbYUfJzRxVLiEK1XyU1DYwv",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r3Kt1x5e1hc1iEFHPJVFLqPPtubUXn2UMz",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rPSFj96EVntPdGCU21CdcXxG4MgQvvHFTs",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rswkqbkr8rKG5HeWLb6BwDi1Xt2ToXS5pq",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEpxdxHzipUzatrzx8ecfPP2VUWxw1Mzab",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r49c3G7NR9Vtoz7wRQxBvkQMReVVhMFT71",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rwvtdWaGhMV7K7gzoXazvM5VQwN6ZZUQFB",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rNHYtkkYopq9Ah3acnzZrHVJ33FiVjFDTJ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rLKA9bqoiL9xEqDV3cj9wbnVDjy4JXGtdi",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r9HsQKxVQx3AKsMpiSPUqCpZYnoFrEqEm1",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rfdmLaLLtBzHUrq2SjtnZemY39XM9jPYwL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rNZS4T8P8a1x375wU7cCy1L4yYN3KhyDwb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rBN5bXxYr5HBDE5VHYaR71D5GzVWxkaFBR",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rs6w5JsSuxZmePam2TR595TEKak2Qtw8MT",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rD4ZLjbniE55YQ4FkkjPRvZKqyiD4g8XBQ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "ramFHrYZGesh5rAnZJH5Tn7czXq6VrvoCx",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rac3p6GmzKpES2X9rjhwxgNyw43fWBbruE",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rsjyS3eY9ahtDkcCCfHeMbmiTBicWuqa64",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rMDitVUHY9LUQrA1T5goqvPnV2HdFPo92Q",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEu5bR8eWrz6KBtfeHdK8aSkXjsTqYo1qd",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rJuZn8MoW39W97FySH1VxarAX6D7ZnnUif",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rUQML83o9GZv9i7dnsWkK9gX8CGpWA1kjt",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rnQDUEFLM4ECBtWMHvqyRFXdMyuQENKus6",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rHtikGsRodBrP5WQEtJWbqdwSf7PmR9Tk5",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rngP2rywsQvaoJbz251ycqdUxxoMm3y2Fh",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rLYCaa5QeVUGHwuG9p46rSRNRGtZp75TPc",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rKRZpYNBLk5Z9T2DfU9qBdBvsYCc8qYT3M",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rUY589VcjP1s87eRDPpyi8RLPhEywy9Cd1",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEd34cmPwX1uRmcUGTPz8wqUUYDCf53DTT",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rKLvmxT8zADHMtSvkdm91A5SUxL4dKjzes",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEGdtVbJp2FEcEd39pAZqkUXi3REwwdFvC",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rfDHVZ57zngfAwDxK5m9ZT19gnxGtz4vb8",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rNAHyht1CFYCsHVseoNQhJL8A6MUU6MjuX",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEMmFnGv4d3L1xZswSoH5gR6hM2MVFzsiy",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rnFtumPCLSsNAsdEeWEAygygWmBckXoNcR",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rDHoLzWug3ySCWtg8D2tQ2WdRPsKkpG9tL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rDWRs6HvmmTmPNoTCRRA85L6BVjsUDGsVV",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rwYt3ccB4ZPmFGntEaQWMiCiRGZugwxEqo",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rLtiyVmj4kA8MwQ2YU7vW2J41Vpx6JHv2",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rmh79qAj3WSXL4CLuQDjYapYJoHDfqeJJ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rNWJiMpXfR658zCf4BeisRH9xtSSafu9pA",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rNoMHZvefTST6t3VzeVY1xV4MyWcMDeTLt",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rUTryFLF6XBrtt3CYddx6tD5dCL4t2Mebk",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rKqaqy6NFcTud6JD7syEq38xNkTXRrNnMM",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rQALHdY5js37FE152bVZgVN6KnmgQp615",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rhrvbrFdfLnCsvaB235ahz6s4ZN3Lpv7Wj",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rsjk3B9W6fcSMLYYxtHDVtnLVY4VnbGJG2",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r4m4tdm7gvc94nEHudnrunyxULB9Egwhux",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEdmoLpg61R6pHpr4VYbwLs51ngy248LqW",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rHLFsLm1ypaMWX7W42kjSuMMNUHNg2UfT",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rBZf6wEHptX2NNnPDEwQ9gsy6URiqQtcMD",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r3HYmykp6H1k1hKNRWmBh3prttHMESfVhr",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rZzo1orLq1weXinmg2JBQqWhJdPu8gFHa",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "r9VegYXYiSGwGZkvXrMQ4pSMYRF8dZwCaA",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rMdhUxPMWCFYLu55LxcWomq2xCs7C9wGEh",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rDqiW6wZMQVpR8FGqDy9cT93Tj2YzXi7nU",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rJBtoQ16CtsbLXhqz5yH9opwb2cVXbZXHb",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEmgdEV9NfwkDXDfWcUfG4C539DEL7HjUh",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rJWsUNH4NunGAri75XToj8Nj4Wbv2EAj6z",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rK8PmczKYHziYhcZYMtvTSsw7hXk8bijJN",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rJkeVDMYojzmCt3upXYNsnJDVx4ksLgZ4L",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rL5fHBFtEktLEbZ9tf923BM7MwML9Rgbyg",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rGM5tqR4bHQNTuK1W6Tb3QJxzpxuXUH4QL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rhvEzG9hwfB2eCd7HjbV3xpwr6FKhx4zBL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rUT8iE4rwxdtVFiok2w5MadfZ2bdqwQ6tF",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rEqHSnkRKCeyT3kaGGc3vVdBYxyuybuJvr",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rJAZKFaMb8Jz2mqCictStTmKP4vYuCvdvo",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rDdEGJSujW3YTMtmX19F33hjUoQYFcS8tZ",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rm2AEVUcxeYh6ZJUTkWUqVRPurWdn4E9W",
+      "ownerDetails": {
+        "username": "Shiffed",
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rBHByEPCSehZ5sQEPZYhxvH2PUTyNdkgBL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "raVViujAzc8ZGVD9sKiuWnZbRP4XVn6GzL",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rJMCnCeqpjwhm6EZuiMKxKceHP9mbnrrud",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rhUiLsmkXDxwn1Z86hGsELSmPXkpajKdUB",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rfJMa52ocUhaHWwqfRu4aDZQ6riar1TCQV",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rMZCiq7UG1Cq6QUFXZzftjrkXxd8BXNsAq",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rhbnMPEHXdf9UKgkFUBeHvrBbmGtQuPv82",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rECH9ut8Xxspy6WkFahqxL1BZe3oGPEAsn",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rnL7KRL1W4atqrujMUFqB6fekaXDk9ZB4J",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    },
+    {
+      "owner": "rGHuEzHfVGFis5C4QW3DzKdUNRqLmwqogj",
+      "ownerDetails": {
+        "username": null,
+        "service": null
+      },
+      "count": 1
+    }
+  ]
+}

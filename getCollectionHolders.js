@@ -1,6 +1,5 @@
-import WebSocket from 'ws';
 import axios from 'axios';
-import { appendFile, writeFile } from 'fs/promises';
+import { readFile, appendFile, writeFile } from 'fs/promises';
 import { join } from 'path';
 
 const participatingIssuers = [
@@ -24,49 +23,62 @@ const participatingIssuers = [
   'raWYT6DD2XFAvjCqRPsCCzr1CMBzJydf9E', //RBCHQ
   'rGNuFE4e2c5NwEp2HnuiJqaSVdaNYRQ7PV', //astronaughties
 ];
+
 const getOwnersAPI = 'https://bithomp.com/api/v2/nft-count/'; //'https://api.xrpscan.com/api/v1/nft/owners';
 const accessToken = '74f27e9e-af03-44c9-bc23-552cf993323d';
-async function fetchOwners(issuer) {
+
+async function fetchAndSaveIssuerData(issuer) {
   try {
     const response = await axios.get(`${getOwnersAPI}${issuer}?list=owners`, {
       headers: {
-        'x-bithomp-token': `${accessToken}`, // Include the access token in the Authorization header
+        'x-bithomp-token': accessToken,
       },
     });
-    // Assuming the API response structure has a field that contains the list of owners
-    console.log(response);
-    //response.data.owners.forEach((owner) => console.log(owner));
-    return response.data.owners || [];
+    const data = response.data;
+    await saveDataAsJSON(data, `./data_${issuer}.json`); // Save each issuer's data as a JSON file
+    return data.owners || [];
   } catch (error) {
     console.error(`Error fetching owners for issuer ${issuer}:`, error);
     return [];
   }
 }
 
-async function saveOwnersToCSV(owners, filePath) {
-  const csvRows = owners.map((owner) => `${owner}\n`).join('');
+async function saveDataAsJSON(data, filePath) {
   try {
-    await appendFile(join(process.cwd(), filePath), csvRows, 'utf8');
-    console.log(`Saved owners to ${filePath}`);
+    await writeFile(
+      join(process.cwd(), filePath),
+      JSON.stringify(data, null, 2),
+      'utf8'
+    );
+    console.log(`Saved data to ${filePath}`);
   } catch (error) {
-    console.error('Error saving to CSV:', error);
+    console.error('Error saving JSON data:', error);
   }
 }
+
 function sleep(duration) {
   return new Promise((resolve) => setTimeout(resolve, duration));
 }
 
-(async () => {
-  let allOwners = new Set();
+async function aggregateOwnerData() {
+  let ownerData = {};
 
   for (const issuer of participatingIssuers) {
-    const owners = await fetchOwners(issuer);
-    owners.forEach((owner) => allOwners.add(owner));
-    console.log('sleep');
-    await sleep(7000);
-    console.log('wake');
+    const owners = await fetchAndSaveIssuerData(issuer);
+    // Aggregate owner data
+    owners.forEach((owner) => {
+      const { account, quantity } = owner; // Assuming the response includes these fields for each owner
+      if (!ownerData[account]) {
+        ownerData[account] = {};
+      }
+      ownerData[account][issuer] = quantity;
+    });
+    console.log('Sleeping for 7 seconds...');
+    await sleep(7000); // Respect API rate limits
+    console.log('Continuing with the next issuer.');
   }
 
-  const uniqueOwners = [...allOwners];
-  await saveOwnersToCSV(uniqueOwners, './unique-owners.csv');
-})();
+  await saveDataAsJSON(ownerData, './aggregate_owner_data.json'); // Save the aggregated owner data as a JSON file
+}
+
+aggregateOwnerData();
