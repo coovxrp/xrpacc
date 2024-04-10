@@ -1,4 +1,5 @@
 import WebSocket from 'ws';
+import axios from 'axios';
 import { appendFile } from 'fs/promises';
 import { join } from 'path';
 
@@ -21,82 +22,45 @@ const participatingIssuers = [
   'rKd9seqW1cuSjH8dgZpxjwXMbDwkaRPUNK', //legion of degen
   'rKgR5LMCU1opzENpP7Qz7bRsQB4MKPpJb4', //rude boy
   'raWYT6DD2XFAvjCqRPsCCzr1CMBzJydf9E', //RBCHQ
+  'rGNuFE4e2c5NwEp2HnuiJqaSVdaNYRQ7PV', //astronaughties
 ];
-// Connect to a public XRPL WebSocket server
-const ws = new WebSocket('ws://127.0.0.1:6006');
+const getOwnersAPI = ' https://bithomp.com/api/v2/nft-count/'; //'https://api.xrpscan.com/api/v1/nft/owners';
 
-async function appendActiveAccountToCSV(account, balance, filePath) {
-  const csvRow = `${account},${balance}\n`;
+async function fetchOwners(issuer) {
   try {
-    await appendFile(join(process.cwd(), filePath), csvRow, 'utf8');
-    console.log(`Appended ${account} to ${filePath}`);
+    const response = await axios.get(`${getOwnersAPI}${issuer}`);
+    // Assuming the API response structure has a field that contains the list of owners
+    // console.log(response);
+    return response.data.owners || [];
   } catch (error) {
-    console.error('Error appending to CSV:', error);
+    console.error(`Error fetching owners for issuer ${issuer}:`, error);
+    return [];
   }
 }
-ws.on('open', function open() {
-  console.log('Connected to XRPL WebSocket server');
 
-  // Send a ledger_data request
-  ws.send(
-    JSON.stringify({
-      id: 1,
-      command: 'ledger_data',
-      ledger_index: 'validated',
-      // limit: 5, // Adjust limit as needed
-      binary: false, // Set to false to get JSON objects instead of binary
-    })
-  );
-});
-
-ws.on('message', async function incoming(data) {
-  console.log('Received data from XRPL WebSocket server');
-  const response = JSON.parse(data);
-
-  if (
-    response.type === 'response' &&
-    response.result &&
-    response.result.state
-  ) {
-    // Process ledger entries here
-    for (const entry of response.result.state) {
-      // Check if the entry is an account root object (which contains XRP balance)
-      if (entry.LedgerEntryType === 'AccountRoot') {
-        const xrpBalance = entry.Balance / 1000000; // Convert from drops to XRP
-        const account = entry.Account;
-
-        if (xrpBalance >= 30) {
-          console.log(
-            `Active account: ${account} with balance: ${xrpBalance} XRP`
-          );
-          await appendActiveAccountToCSV(
-            account,
-            xrpBalance,
-            './4_3_24_Active_XRPL_Addresses.csv'
-          );
-        }
-      }
-    }
-
-    // Check for pagination marker and send another request if present
-    if (response.result.marker) {
-      console.log('Paginating for more data');
-      ws.send(
-        JSON.stringify({
-          id: 2,
-          command: 'ledger_data',
-          ledger_index: 'validated',
-          binary: false, // Set to false to get JSON objects instead of binary
-          marker: response.result.marker, // Use marker for pagination
-        })
-      );
-    }
-  } else {
-    console.log('No more data to paginate. Closing connection.');
-    ws.close();
+async function saveOwnersToCSV(owners, filePath) {
+  const csvRows = owners.map((owner) => `${owner}\n`).join('');
+  try {
+    await appendFile(join(process.cwd(), filePath), csvRows, 'utf8');
+    console.log(`Saved owners to ${filePath}`);
+  } catch (error) {
+    console.error('Error saving to CSV:', error);
   }
-});
+}
+function sleep(duration) {
+  return new Promise((resolve) => setTimeout(resolve, duration));
+}
+(async () => {
+  let allOwners = new Set();
 
-ws.on('error', function error(err) {
-  console.error('WebSocket error:', err);
-});
+  for (const issuer of participatingIssuers) {
+    const owners = await fetchOwners(issuer);
+    owners.forEach((owner) => allOwners.add(owner));
+    console.log('sleep');
+    await sleep(7000);
+    console.log('wake');
+  }
+
+  const uniqueOwners = [...allOwners];
+  await saveOwnersToCSV(uniqueOwners, './unique-owners.csv');
+})();
