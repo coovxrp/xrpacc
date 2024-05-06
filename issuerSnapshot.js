@@ -25,7 +25,7 @@ const participatingIssuers = [
 ];
 
 const getOwnersAPI = 'https://bithomp.com/api/v2/nft-count/'; //'https://api.xrpscan.com/api/v1/nft/owners';
-const accessToken = '74f27e9e-af03-44c9-bc23-552cf993323d';
+const accessToken = '74f27e9e-af03-44c9-bc23-552cf993323d'; //compromised(pushed to github);
 
 async function fetchAndSaveIssuerData(issuer) {
   try {
